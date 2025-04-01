@@ -1,72 +1,149 @@
-[
+{
+  "collectionName": "Must-Read Computer Books",
+  "publisher": "Tech Publications",
+  "yearPublished": 2023,
+  "location": "Digital Library",
+  "available": true,
+  "books": [
     {
-      "author": "J.K. Rowling",
-      "title": "Harry Potter and the Philosopher's Stone",
-      "description": "The first book in the Harry Potter series, introducing the magical world and Harry's journey as a wizard.",
-      "price": 10.99,
-      "publisher": "Bloomsbury"
+      "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+      "author": "Robert C. Martin",
+      "pages": 464,
+      "topics": [
+        "Software Development",
+        "Code Quality",
+        "Best Practices"
+      ]
     },
     {
-      "author": "George R.R. Martin",
-      "title": "A Game of Thrones",
-      "description": "The first book in the epic fantasy series, following the political struggles for the Iron Throne.",
-      "price": 12.99,
-      "publisher": "Bantam Spectra"
+      "title": "The Pragmatic Programmer",
+      "author": "Andrew Hunt, David Thomas",
+      "pages": 352,
+      "topics": [
+        "Programming Techniques",
+        "Career Growth",
+        "Software Engineering"
+      ]
     },
     {
-      "author": "J.R.R. Tolkien",
-      "title": "The Lord of the Rings",
-      "description": "A classic high fantasy novel about the quest to destroy the One Ring and defeat the dark lord Sauron.",
-      "price": 15.99,
-      "publisher": "Houghton Mifflin"
+      "title": "Designing Data-Intensive Applications",
+      "author": "Martin Kleppmann",
+      "pages": 600,
+      "topics": [
+        "Distributed Systems",
+        "Database Design",
+        "Scalability"
+      ]
     },
     {
-      "author": "Stephen King",
-      "title": "The Shining",
-      "description": "A horror novel about a family that becomes trapped in a haunted hotel with supernatural forces.",
-      "price": 9.99,
-      "publisher": "Doubleday"
+      "title": "Introduction to Algorithms",
+      "author": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein",
+      "pages": 1312,
+      "topics": [
+        "Algorithms",
+        "Computer Science",
+        "Problem Solving"
+      ]
     },
     {
-      "author": "Agatha Christie",
-      "title": "And Then There Were None",
-      "description": "A mystery novel about ten strangers who are lured to an isolated island and begin to be killed one by one.",
-      "price": 8.99,
-      "publisher": "Collins Crime Club"
+      "title": "Structure and Interpretation of Computer Programs (SICP)",
+      "author": "Harold Abelson, Gerald Jay Sussman",
+      "pages": 657,
+      "topics": [
+        "Functional Programming",
+        "Lisp",
+        "Computer Science Fundamentals"
+      ]
     },
     {
-      "author": "F. Scott Fitzgerald",
-      "title": "The Great Gatsby",
-      "description": "A novel set in the Roaring Twenties, exploring themes of wealth, love, and the American Dream.",
-      "price": 7.99,
-      "publisher": "Charles Scribner's Sons"
+      "title": "Artificial Intelligence: A Modern Approach",
+      "author": "Stuart Russell, Peter Norvig",
+      "pages": 1136,
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Problem Solving"
+      ]
     },
     {
-      "author": "J.D. Salinger",
-      "title": "The Catcher in the Rye",
-      "description": "A coming-of-age story about a teenager's experiences in New York City after being expelled from prep school.",
-      "price": 6.99,
-      "publisher": "Little, Brown and Company"
+      "title": "Code: The Hidden Language of Computer Hardware and Software",
+      "author": "Charles Petzold",
+      "pages": 512,
+      "topics": [
+        "Computer Science",
+        "Hardware",
+        "Software"
+      ]
     },
     {
-      "author": "Charles Dickens",
-      "title": "A Tale of Two Cities",
-      "description": "A historical novel set against the backdrop of the French Revolution, exploring themes of sacrifice and redemption.",
-      "price": 5.99,
-      "publisher": "Chapman & Hall"
+      "title": "The Art of Computer Programming",
+      "author": "Donald E. Knuth",
+      "pages": 720,
+      "topics": [
+        "Algorithms",
+        "Programming",
+        "Computer Science"
+      ]
     },
     {
-      "author": "Jane Austen",
-      "title": "Pride and Prejudice",
-      "description": "A romantic novel exploring issues of manners, upbringing, morality, education, and marriage in the society of the landed gentry of early 19th-century England.",
-      "price": 6.49,
-      "publisher": "T. Egerton"
+      "title": "Peopleware: Productive Projects and Teams",
+      "author": "Tom DeMarco",
+      "pages": 360,
+      "topics": [
+        "Project Management",
+        "Teamwork",
+        "Productivity"
+      ]
     },
     {
-      "author": "Mark Twain",
-      "title": "Adventures of Huckleberry Finn",
-      "description": "A novel about a young boy's journey down the Mississippi River with a runaway slave, exploring themes of racism and freedom.",
-      "price": 7.49,
-      "publisher": "Charles L. Webster and Company"
+      "title": "Groovy in Action",
+      "author": "Dierk König",
+      "pages": 480,
+      "topics": [
+        "Groovy",
+        "Java",
+        "Scripting"
+      ]
+    },
+    {
+      "title": "Effective Java",
+      "author": "Joshua Bloch",
+      "pages": 384,
+      "topics": [
+        "Java",
+        "Best Practices",
+        "Software Development"
+      ]
+    },
+    {
+      "title": "You Don't Know JS",
+      "author": "Kyle Simpson",
+      "pages": 800,
+      "topics": [
+        "JavaScript",
+        "Programming",
+        "Web Development"
+      ]
+    },
+    {
+      "title": "Test Driven Development: By Example",
+      "author": "Kent Beck",
+      "pages": 320,
+      "topics": [
+        "Testing",
+        "Development",
+        "Software Engineering"
+      ]
+    },
+    {
+      "title": "Domain Driven Design: Tackling Complexity in the Heart of Software",
+      "author": "Eric Evans",
+      "pages": 520,
+      "topics": [
+        "Software Design",
+        "Architecture",
+        "Complexity"
+      ]
     }
   ]
+}
