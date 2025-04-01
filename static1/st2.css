@@ -1,0 +1,59 @@
+/* style.css */
+body {
+    font-family: 'Verdana', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+h1 {
+    text-align: center;
+    padding: 20px 0;
+}
+
+h2 {
+    border-bottom: 2px solid #33a4d4;
+    padding-bottom: 5px;
+    margin-bottom: 20px;
+}
+
+#book-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+#book-list li {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+#book-list li strong {
+    display: block;
+    margin-bottom: 5px;
+}
+
+#book-list li p {
+    margin: 5px 0;
+}
+
+#book-list li br {
+    display: none;
+}
+
+#book-list li a {
+    text-decoration: none;
+    color: #0066cc;
+}
+
+#book-list li a:hover {
+    text-decoration: underline;
+}
