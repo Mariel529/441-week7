@@ -1,0 +1,72 @@
+[
+    {
+      "author": "J.K. Rowling",
+      "title": "Harry Potter and the Philosopher's Stone",
+      "description": "The first book in the Harry Potter series, introducing the magical world and Harry's journey as a wizard.",
+      "price": 10.99,
+      "publisher": "Bloomsbury"
+    },
+    {
+      "author": "George R.R. Martin",
+      "title": "A Game of Thrones",
+      "description": "The first book in the epic fantasy series, following the political struggles for the Iron Throne.",
+      "price": 12.99,
+      "publisher": "Bantam Spectra"
+    },
+    {
+      "author": "J.R.R. Tolkien",
+      "title": "The Lord of the Rings",
+      "description": "A classic high fantasy novel about the quest to destroy the One Ring and defeat the dark lord Sauron.",
+      "price": 15.99,
+      "publisher": "Houghton Mifflin"
+    },
+    {
+      "author": "Stephen King",
+      "title": "The Shining",
+      "description": "A horror novel about a family that becomes trapped in a haunted hotel with supernatural forces.",
+      "price": 9.99,
+      "publisher": "Doubleday"
+    },
+    {
+      "author": "Agatha Christie",
+      "title": "And Then There Were None",
+      "description": "A mystery novel about ten strangers who are lured to an isolated island and begin to be killed one by one.",
+      "price": 8.99,
+      "publisher": "Collins Crime Club"
+    },
+    {
+      "author": "F. Scott Fitzgerald",
+      "title": "The Great Gatsby",
+      "description": "A novel set in the Roaring Twenties, exploring themes of wealth, love, and the American Dream.",
+      "price": 7.99,
+      "publisher": "Charles Scribner's Sons"
+    },
+    {
+      "author": "J.D. Salinger",
+      "title": "The Catcher in the Rye",
+      "description": "A coming-of-age story about a teenager's experiences in New York City after being expelled from prep school.",
+      "price": 6.99,
+      "publisher": "Little, Brown and Company"
+    },
+    {
+      "author": "Charles Dickens",
+      "title": "A Tale of Two Cities",
+      "description": "A historical novel set against the backdrop of the French Revolution, exploring themes of sacrifice and redemption.",
+      "price": 5.99,
+      "publisher": "Chapman & Hall"
+    },
+    {
+      "author": "Jane Austen",
+      "title": "Pride and Prejudice",
+      "description": "A romantic novel exploring issues of manners, upbringing, morality, education, and marriage in the society of the landed gentry of early 19th-century England.",
+      "price": 6.49,
+      "publisher": "T. Egerton"
+    },
+    {
+      "author": "Mark Twain",
+      "title": "Adventures of Huckleberry Finn",
+      "description": "A novel about a young boy's journey down the Mississippi River with a runaway slave, exploring themes of racism and freedom.",
+      "price": 7.49,
+      "publisher": "Charles L. Webster and Company"
+    }
+  ]
